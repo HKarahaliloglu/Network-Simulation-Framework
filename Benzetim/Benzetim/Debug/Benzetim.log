@@ -1,0 +1,8 @@
+﻿  classes.cpp
+C:\Users\kayha\source\repos\Benzetim\classes.cpp(66,20): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+C:\Users\kayha\source\repos\Benzetim\classes.cpp(66,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\kayha\source\repos\Benzetim\main.cpp(262,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kayha\source\repos\Benzetim\main.cpp(312,28): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Benzetim.vcxproj -> C:\Users\kayha\source\repos\Benzetim\Debug\Benzetim.exe
