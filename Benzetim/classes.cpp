@@ -65,7 +65,7 @@ public:
 	unsigned full =MAX_FIFO;
 	void push(const Olay& value) {
 		if (this->size() >= full) {
-			cout << "KAYHAN££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££££" << endl;
+			
 			return;  // Kuyruk doluysa ekleme yapma
 		}
 

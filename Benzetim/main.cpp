@@ -396,15 +396,6 @@ int main()
 
 
 
-	//int x, y;
-	//cout << "sümulasyonun tasarımının kaç satırdan oluşmasını istediğinizi giriniz=>";
-	//cin >> x;
-	//cout << "sümulasyonun tasarımının kaç sütundan oluşmasını istediğinizi giriniz=>";
-	//cin >> y;
-	//int z = x * y;
-
-
-
 
 
 	//cout << "Simülasyon 12 adet switch ve bu switchlere bağlı 12 adet compute olacak şekilde oluşturuldu" << endl;
@@ -423,7 +414,7 @@ int main()
 		computes.push_back(compute);
 		cout << i << " nolu compute oluşturuldu." << endl;
 
-		//mySwitch.port_compute.kime = &computes[i].port_compute;
+		
 
 
 	}
